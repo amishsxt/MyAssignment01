@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //my custom colors
+    <color name="grey">#808080</color>
+    <color name="light_grey">#F1F1F1</color>
+    <color name="grey_tint">#757575</color>
+    <color name="sky_blue">#2699FB</color>
+    <color name="light_sky_blue">#EFF7FC</color>
+    <color name="dark_blue">#4267B2</color>
+    <color name="fav_red">#F16470</color>
+
+</resources>
